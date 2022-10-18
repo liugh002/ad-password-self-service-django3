@@ -12,7 +12,7 @@ AD_DOMAIN = r'修改成自己的'
 
 # 用于登录AD做用户信息处理的账号，需要有修改用户账号密码或信息的权限。
 # AD账号，例如：pwdadmin
-AD_LOGIN_USER = r'修111改成自己的'
+AD_LOGIN_USER = r'修111改2222成自己的'
 # 密码
 AD_LOGIN_USER_PWD = r'修改为自己的'
 
